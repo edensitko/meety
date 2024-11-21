@@ -1,13 +1,18 @@
-# Exclude IDE configuration files
+# Exclude IDE-specific files
 .idea/
 *.iml
 
-# Exclude build files
-/build/
+# Exclude log files
+*.log
 
-# Exclude system files
+# Exclude temporary system files
 .DS_Store
 Thumbs.db
 
-# Node.js dependencies (אם רלוונטי)
+# Exclude dependency folders
 node_modules/
+vendor/
+
+# Exclude build files
+/build/
+dist/
