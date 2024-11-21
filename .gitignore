@@ -1,0 +1,13 @@
+# Exclude IDE configuration files
+.idea/
+*.iml
+
+# Exclude build files
+/build/
+
+# Exclude system files
+.DS_Store
+Thumbs.db
+
+# Node.js dependencies (אם רלוונטי)
+node_modules/

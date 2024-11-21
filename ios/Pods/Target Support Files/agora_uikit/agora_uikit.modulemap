@@ -1,0 +1,6 @@
+framework module agora_uikit {
+  umbrella header "agora_uikit-umbrella.h"
+
+  export *
+  module * { export * }
+}

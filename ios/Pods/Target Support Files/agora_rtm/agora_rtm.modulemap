@@ -1,0 +1,6 @@
+framework module agora_rtm {
+  umbrella header "agora_rtm-umbrella.h"
+
+  export *
+  module * { export * }
+}
