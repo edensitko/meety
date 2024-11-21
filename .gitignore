@@ -16,3 +16,5 @@ vendor/
 # Exclude build files
 /build/
 dist/
+.dart_tool/
+ios/Pods/
