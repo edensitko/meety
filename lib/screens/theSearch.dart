@@ -1,5 +1,4 @@
 import 'package:meety/providers/notificationProvider.dart';
-import 'package:meety/widgets/SearchWidget.dart';
 import 'package:meety/widgets/profilecard.dart';
 import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';

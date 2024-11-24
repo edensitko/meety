@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:meety/providers/auth_provider.dart';
-import 'package:meety/screens/userprofile_screen.dart';
 
 class RightSideMenu extends StatelessWidget {
   final AuthProvider authProvider;

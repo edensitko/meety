@@ -1,6 +1,4 @@
 import 'package:meety/widgets/createmeet.dart';
-import 'package:meety/widgets/meetingDetails.dart';
-import 'package:meety/widgets/switchable.dart';
 import 'package:flutter/material.dart';
 
 class GradientButtonGrid extends StatelessWidget {

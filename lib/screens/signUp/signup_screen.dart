@@ -1,6 +1,5 @@
 import 'dart:io';
 import 'dart:ui';
-import 'package:meety/screens/login_screen.dart';
 import 'package:meety/screens/preLogin.dart';
 import 'package:firebase_storage/firebase_storage.dart';
 import 'package:flutter/material.dart';

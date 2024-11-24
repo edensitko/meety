@@ -10,7 +10,6 @@ import 'package:meety/screens/login_screen.dart';
 import 'package:meety/screens/meeting.dart';
 import 'package:meety/screens/signUp/signup_screen.dart';
 import 'package:meety/screens/theSearch.dart';
-import 'package:meety/screens/splash3.dart'; 
 import 'package:meety/screens/preLogin.dart';
 import 'package:meety/screens/splash.dart';
 import 'package:meety/screens/userProfile_screen.dart';

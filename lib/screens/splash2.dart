@@ -1,10 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:meety/screens/login_screen.dart';
 import 'package:meety/screens/preLogin.dart';
 import 'package:meety/screens/signUp/signup_screen.dart';
 import 'package:meety/screens/splash3.dart';
 import 'package:meety/screens/splash.dart';
-import 'package:video_player/video_player.dart';
 
 class Splash2Screen extends StatefulWidget {
   const Splash2Screen({super.key});

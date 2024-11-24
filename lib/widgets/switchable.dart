@@ -4,7 +4,6 @@ import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:meety/widgets/createmeet.dart';
 import 'package:meety/widgets/meetingDetails.dart';
-import 'package:meety/widgets/switch.dart';
 import 'package:table_calendar/table_calendar.dart';
 // Widget that allows switching between different content widgets
 

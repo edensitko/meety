@@ -1,4 +1,3 @@
-import 'dart:ui';
 import 'package:flutter/material.dart';
 import 'package:meety/providers/notificationProvider.dart';
 import 'package:meety/screens/sidemenu.dart';
